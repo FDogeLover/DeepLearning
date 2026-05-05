@@ -44,6 +44,14 @@ cookie.txt
 yolov5/runs/**
 hagrid-master/dataset/**
 
+# K230 model files (large binary)
+*.kmodel
+*.onnx
+
+# K230 calibration data (large volume)
+new_animal/data/**
+new_animal/calib/**
+
 # Driver executables
 msedgedriver.exe
 *.exe
