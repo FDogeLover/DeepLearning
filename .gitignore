@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Dataset images (large volume)
+animal/dataset/images/**
+animal/dataset_raw/**
+animal/dataset_augmented/**
+yolov5_animal_dataset/images/**
+yolov5_animal_dataset/labels/**
+yolov5_animal_dataset/augmented/**
+yolov5_animal_dataset/images - 副本/**
+yolov5_animal_dataset/images - 副本 (2)/**
+yolov5_animal_dataset/labels - 副本/**
+yolov5_animal_dataset/labels - 副本 (2)/**
+yolov5_animal_dataset/captured_center_*/**
+yolov5_animal_dataset/outputs/**
+yolov5_animal_dataset/animals_pic/**
+pytorch/converted_npy/**
+pytorch/QuickDraw/**
+pytorch/similarity_row/**
+pytorch/mnist/**
+yolov5_animal_dataset/map.jpg
+yolov5_animal_dataset/output.jpg
+
+# Data files
+*.npy
+*.ndjson
+*.zip
+*.csv
+cookie.txt
+
+# Training runs (large)
+yolov5/runs/**
+hagrid-master/dataset/**
+
+# Driver executables
+msedgedriver.exe
+*.exe
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store

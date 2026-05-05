@@ -1,0 +1,5 @@
+train: D:/Pycharm Project/picturetest/animal/dataset/images/train
+val: D:/Pycharm Project/picturetest/animal/dataset/images/val
+
+nc: 5  # 类别数
+names: ['elephant', 'peacock', 'wolf', 'tiger', 'monkey']

@@ -1,0 +1,10 @@
+cat
+airplane
+apple
+bicycle
+book
+clock
+cloud
+cup
+tree
+umbrella

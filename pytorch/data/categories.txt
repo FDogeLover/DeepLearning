@@ -1,0 +1,6 @@
+bed
+apple
+banana
+airplane
+book
+bread
