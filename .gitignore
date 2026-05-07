@@ -62,3 +62,13 @@ msedgedriver.exe
 # OS files
 Thumbs.db
 .DS_Store
+
+# new_animal
+new_animal/datasets/
+new_animal/runs/
+new_animal/.venv/
+new_animal/dotnet7/
+new_animal/dotnet7-sdk.tar.gz
+new_animal/gmodel_dump_dir/
+new_animal/tmp/
+*.pt
